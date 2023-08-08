@@ -426,11 +426,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/beqa/Desktop/Projects/BookingAndReservationApi/BookingAndReservationApi/BookingAndReservationApi/BookingAndReservationApi.csproj",
+      "projectUniqueName": "/Users/beqa/Desktop/Projects/HotelBookingAndReservationApi/BookingAndReservationApi/BookingAndReservationApi/BookingAndReservationApi.csproj",
       "projectName": "BookingAndReservationApi",
-      "projectPath": "/Users/beqa/Desktop/Projects/BookingAndReservationApi/BookingAndReservationApi/BookingAndReservationApi/BookingAndReservationApi.csproj",
+      "projectPath": "/Users/beqa/Desktop/Projects/HotelBookingAndReservationApi/BookingAndReservationApi/BookingAndReservationApi/BookingAndReservationApi.csproj",
       "packagesPath": "/Users/beqa/.nuget/packages/",
-      "outputPath": "/Users/beqa/Desktop/Projects/BookingAndReservationApi/BookingAndReservationApi/BookingAndReservationApi/obj/",
+      "outputPath": "/Users/beqa/Desktop/Projects/HotelBookingAndReservationApi/BookingAndReservationApi/BookingAndReservationApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/beqa/.nuget/NuGet/NuGet.Config"
