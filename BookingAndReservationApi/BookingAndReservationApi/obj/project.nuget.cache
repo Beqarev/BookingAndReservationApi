@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TCG4iF5xXgXGTdjMC+/S/H0AE1wNB+rN0l/Qjb2ATb6FMaf+9GQwteHCF/oZyy6KW1eijtB8aN9l2B8Cn8k0MQ==",
+  "success": true,
+  "projectFilePath": "/Users/beqa/Desktop/Projects/BookingAndReservationApi/BookingAndReservationApi/BookingAndReservationApi/BookingAndReservationApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/beqa/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/beqa/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/beqa/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/beqa/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/beqa/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/beqa/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
