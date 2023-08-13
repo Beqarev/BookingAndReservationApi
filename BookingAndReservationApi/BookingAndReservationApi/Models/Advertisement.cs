@@ -1,10 +1,15 @@
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
 namespace BookingAndReservationApi.Models;
 
 public class Advertisement
 {
+    [Key]
     public int Id { get; set; }
-    public string AdvertisementTitle { get; set; }
-    public string AdvertisementText { get; set; }
-    public User User { get; set; }
-    
+    public string Title { get; set; }
+    public string Text { get; set; }
+    [ForeignKey("AdvertisementUserId")]
+    public virtual User? User { get; set; }
+    public ICollection<Reviewer> Reviewers { get; set; }
 }
