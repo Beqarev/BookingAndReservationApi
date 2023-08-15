@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace BookingAndReservationApi.Models;
 
-public class Reviewer
+public class Review
 {
     [Key]
     public int Id { get; set; }

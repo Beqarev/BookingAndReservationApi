@@ -11,5 +11,7 @@ public class Advertisement
     public string Text { get; set; }
     [ForeignKey("AdvertisementUserId")]
     public virtual User? User { get; set; }
-    public ICollection<Reviewer> Reviewers { get; set; }
+
+    public DateTime ReleaseDate { get; set; }
+    public ICollection<Review> Reviews { get; set; }
 }
